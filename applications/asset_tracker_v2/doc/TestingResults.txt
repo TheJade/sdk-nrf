@@ -1,0 +1,210 @@
+"Received":{3 items
+"appId":"AGPS"
+"messageType":"DATA"
+"data":{6 items
+"mcc":302
+"mnc":720
+"tac":32320
+"eci":104970508
+"rsrp":-140
+"types":[8 items
+0:1
+1:2
+2:3
+3:4
+4:6
+5:7
+6:8
+7:9
+]
+}
+}
+"Received":{3 items
+"appId":"CELL_POS"
+"messageType":"DATA"
+"data":{1 item
+"lte":[1 item
+0:{8 items
+"eci":104970508
+"mcc":302
+"mnc":720
+"tac":32320
+"earfcn":5070
+"rsrp":-80
+"rsrq":-8
+"adv":112
+}
+]
+}
+}
+"Received":{3 items
+"appId":"CELL_POS"
+"messageType":"DATA"
+"data":{4 items
+"lat":51.06498957
+"lon":-114.2207551
+"uncertainty":1206
+"fulfilledWith":"SCELL"
+}
+}
+"Received":{4 items
+"appId":"AIR_PRESS"
+"messageType":"DATA"
+"ts":1646530745603
+"data":"87.84"
+}
+"Received":{4 items
+"appId":"BUTTON"
+"messageType":"DATA"
+"ts":1646530736556
+"data":"1"
+}
+"Received":{4 items
+"appId":"DEVICE"
+"messageType":"DATA"
+"ts":1646530745682
+"data":{1 item
+"deviceInfo":{5 items
+"imei":"351358811472734"
+"iccid":"8931080520035816857"
+"modemFirmware":"mfw_nrf9160_1.3.1"
+"board":"thingy91_nrf9160"
+"appVersion":"0.0.0-development"
+}
+}
+}
+"Received":{4 items
+"appId":"DEVICE"
+"messageType":"DATA"
+"ts":1646530745723
+"data":{1 item
+"networkInfo":{7 items
+"currentBand":12
+"networkMode":"LTE-M"
+"rsrp":-79
+"areaCode":32320
+"mccmnc":302720
+"cellID":104970508
+"ipAddress":"10.165.36.166"
+}
+}
+}
+"Received":{4 items
+"appId":"TEMP"
+"messageType":"DATA"
+"ts":1646530745603
+"data":"19.63"
+}
+"Received":{4 items
+"appId":"BUTTON"
+"messageType":"DATA"
+"ts":1646530732846
+"data":"1"
+}
+"Received":{4 items
+"appId":"VOLTAGE"
+"messageType":"DATA"
+"ts":1646530745762
+"data":"3848"
+}
+"Received":{4 items
+"appId":"RSRP"
+"messageType":"DATA"
+"ts":1646530745723
+"data":"-79"
+}
+"Received":{4 items
+"appId":"HUMID"
+"messageType":"DATA"
+"ts":1646530745603
+"data":"32.79"
+}
+"Received":{4 items
+"data":"1"
+"appId":"BUTTON"
+"messageType":"DATA"
+"ts":1646530762200
+}
+"Received":{3 items
+"appId":"AGPS"
+"messageType":"DATA"
+"data":{6 items
+"mcc":302
+"mnc":720
+"tac":32320
+"eci":104970508
+"rsrp":-140
+"types":[1 item
+0:2
+]
+}
+}
+"Received":{3 items
+"appId":"CELL_POS"
+"messageType":"DATA"
+"data":{1 item
+"lte":[1 item
+0:{8 items
+"eci":104970508
+"mcc":302
+"mnc":720
+"tac":32320
+"earfcn":5070
+"rsrp":-91
+"rsrq":-12.5
+"adv":112
+}
+]
+}
+}
+"Received":{3 items
+"appId":"CELL_POS"
+"messageType":"DATA"
+"data":{4 items
+"lat":51.06498957
+"lon":-114.2207551
+"uncertainty":1206
+"fulfilledWith":"SCELL"
+}
+}
+"Received":{4 items
+"appId":"RSRP"
+"messageType":"DATA"
+"ts":1646530782704
+"data":"-91"
+}
+"Received":{4 items
+"appId":"TEMP"
+"messageType":"DATA"
+"ts":1646530782603
+"data":"21.46"
+}
+"Received":{4 items
+"appId":"VOLTAGE"
+"messageType":"DATA"
+"ts":1646530782744
+"data":"3852"
+}
+"Received":{4 items
+"appId":"HUMID"
+"messageType":"DATA"
+"ts":1646530782603
+"data":"34.25"
+}
+"Received":{4 items
+"appId":"GPS"
+"messageType":"DATA"
+"ts":1646530810024
+"data":"$GPGGA,014010.78,5104.28320,N,11412.92047,W,1,04,1.54,1247.57,M,,M,,*59
+"
+}
+"Received":{4 items
+"appId":"DEVICE"
+"messageType":"DATA"
+"ts":1646530782704
+"data":{1 item
+"networkInfo":{1 item
+"rsrp":-91
+}
+}
+}
